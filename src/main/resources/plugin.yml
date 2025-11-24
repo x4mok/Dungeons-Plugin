@@ -1,0 +1,4 @@
+name: Dungeons
+version: '0.1.0'
+main: com.x4mok.dungeons.Dungeons
+api-version: '1.21'
